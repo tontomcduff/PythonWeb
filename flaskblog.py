@@ -1,3 +1,5 @@
+#Start with python3 flaskblog.py
+
 from flask import Flask, make_response, request, jsonify
 
 app = Flask(__name__)
